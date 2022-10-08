@@ -18,6 +18,7 @@ As a user you can see the general information like director, runtime, language a
 
   
 *List movies and series
+
 *Add movies and series
 
 **Built With**
@@ -39,6 +40,7 @@ As a user you can see the general information like director, runtime, language a
 **Installation**
 
 *fork/clone project
+
 *npm install
  
 **Usage**
