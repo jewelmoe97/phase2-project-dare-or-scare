@@ -1,18 +1,27 @@
-# This is the project for the PHASE2 from Flat Iron Software Engineering Flex Program.
+**This is the project for the PHASE2 from Flat Iron Software Engineering Flex Program.**
 
 
 **Project Overview**
-**DARE OR SCARE!!**is an app to discover the scariest movies and series of the Halloween.We provide  the premiere online destination for horror movie enthusiasts, providing the latest trending movies and series and general information of them.  
+
+**DARE OR SCARE!!**    is an app to discover the scariest movies and series of the Halloween.
+
+We provide  the premiere online destination for horror movie enthusiasts, providing the latest trending movies and series and general information of them.
+
 DARE OR SCARE!! keeps users connected to all their favorites, past, present and future. Our main feature is  a user can add their favourite movies and series just by filling in the form.
-A user can see the all movies and series on Home page. Or we have a separate list for movies and series and also for the popular movies and series .As a user you can see the general information like director, runtime, language and rating. 
+
+A user can see the all movies and series on Home page. Or we have a separate list for movies and series and also for the popular movies and series .
+
+As a user you can see the general information like director, runtime, language and rating. 
 
 
 **Features:**
+
   
 *List movies and series
 *Add movies and series
 
 **Built With**
+
 *HTML
 
 *CSS
@@ -22,17 +31,22 @@ A user can see the all movies and series on Home page. Or we have a separate lis
 *React JS
 
 **Requirments**
+
 *node 16.16.0
+
 *json-server
 
 **Installation**
+
 *fork/clone project
 *npm install
  
 **Usage**
 
 *on command run **json-server --watch db.json**
+
 *npm start to run the server
+
 *open in localhost:3000 in browser
 
 
